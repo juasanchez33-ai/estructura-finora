@@ -1,0 +1,6 @@
+# Django Project Skeleton
+Django==4.2.7
+django-cors-headers==4.3.1
+djangorestframework==3.14.0
+djangorestframework-simplejwt==5.3.1
+requests==2.31.0
